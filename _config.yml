@@ -1,16 +1,16 @@
-title: Your awesome title
-author: Your Name
-email: your-email@domain.com
+title: Software Engineering Portfolio
+author: Cliff Duffey
+email: cliff.duffey@pm.me
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
 # Header Links
-homepage: https://blog.tedivm.com
-twitter_username: example
-github_username:  example
-linkedin_username: example
+homepage: https://linkedin/en/cduffey
+twitter_username: cliffduffey2
+github_username:  hcduffey
+linkedin_username: cduffey
 
 
 
